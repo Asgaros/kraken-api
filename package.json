@@ -1,0 +1,36 @@
+{
+  "name": "kraken-api",
+  "version": "1.0.0",
+  "description": "A client for the Kraken API based on Node.js",
+  "main": "kraken-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asgaros/kraken-api.git"
+  },
+  "keywords": [
+    "kraken",
+    "api",
+    "client",
+    "library",
+    "cryptocurrency",
+    "bitcoin",
+    "btc",
+    "ethereum",
+    "eth",
+    "ripple",
+    "xrp"
+  ],
+  "author": "Thomas Belser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Asgaros/kraken-api/issues"
+  },
+  "homepage": "https://github.com/Asgaros/kraken-api#readme",
+  "dependencies": {
+    "got": "^11.8.2",
+    "qs": "^6.10.1"
+  }
+}
